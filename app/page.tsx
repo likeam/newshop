@@ -2,7 +2,7 @@ import React from "react";
 
 const Home = () => {
   return (
-    <div className=" bg-amber-900">
+    <div className=" bg-amber-800">
       Home Sweet too has been too only tun me Settings needed back needed
     </div>
   );
